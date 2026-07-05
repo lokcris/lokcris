@@ -2,8 +2,6 @@
   
 # Christian Paul Lokko
 ### Cybersecurity Engineer | SOC Analyst | Cloud & DevOps Enthusiast | Software Developer
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=0A66C2&center=true&vCenter=true&width=700&lines=Cybersecurity+Engineer;SOC+Analyst;Cloud+Security+%7C+AWS+%7C+Azure;Software+Developer;Lifelong+Learner" alt="Typing SVG" />
-
 
 ### Transforming Technology into Secure, Scalable Solutions
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](YOUR_LINKEDIN)
@@ -188,33 +186,6 @@ Including:
 
 ---
 
-# 📈 GitHub Stats
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=github_dark"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=github_dark"/>
-
-</p>
-
----
-
-# 🔥 GitHub Streak
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=github-dark"/>
-
-</p>
-
----
-
-# 📊 Contribution Graph
-
-[![Christian's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=github-compact)](https://github.com/YOUR_USERNAME)
-
----
 
 # 🌍 Current Focus
 
