@@ -209,16 +209,6 @@ Including:
 
 ---
 
-# 🤝 Let's Connect
-
-📧 Email: YOUR_EMAIL
-
-💼 LinkedIn: YOUR_LINKEDIN
-
-🌍 Portfolio: YOUR_PORTFOLIO
-
----
-
 <div align="center">
 
 ### Thanks for visiting my profile!
