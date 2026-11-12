@@ -160,9 +160,7 @@ Including:
 ![Docker](https://skillicons.dev/icons?i=docker)
 ![Git](https://skillicons.dev/icons?i=git)
 ![GitHub](https://skillicons.dev/icons?i=github)
-![Terraform](https://skillicons.dev/icons?i=terraform)
 
----
 
 ## Security
 
@@ -181,8 +179,6 @@ Including:
 # 📜 Certifications
 
 - CompTIA Security+
-- AWS Cloud Practitioner *(Add when completed)*
-- Microsoft Azure Fundamentals *(Add when completed)*
 
 ---
 
