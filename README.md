@@ -99,21 +99,6 @@ Built a scalable private cloud infrastructure featuring:
 
 ```
 /opennebula-private-cloud
-```
-
----
-
-## ☁️ AWS Cloud Labs
-
-Projects including:
-
-- EC2
-- IAM
-- VPC
-- Route53
-- Lambda
-- CloudFormation
-- Terraform
 
 ---
 
@@ -143,8 +128,7 @@ Including:
 
 ## Cloud
 
-![AWS](https://skillicons.dev/icons?i=aws)
-![Azure](https://skillicons.dev/icons?i=azure)
+![Open Nebulla]
 
 ---
 
@@ -153,13 +137,7 @@ Including:
 ![Linux](https://skillicons.dev/icons?i=linux)
 ![Windows](https://skillicons.dev/icons?i=windows)
 
----
-
-## DevOps
-
-![Docker](https://skillicons.dev/icons?i=docker)
-![Git](https://skillicons.dev/icons?i=git)
-![GitHub](https://skillicons.dev/icons?i=github)
+--
 
 
 ## Security
@@ -201,7 +179,6 @@ Including:
 - ✅ AWS Certified Solutions Architect
 - ✅ Microsoft SC-200
 - ✅ Build a complete SOC Portfolio
-- ✅ Contribute to Open Source
 
 ---
 
